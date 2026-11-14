@@ -106,5 +106,5 @@ Each line goes through the same steps:
 
 ## Authors
 
-- **zelkalai**: parsing (tokenizer, expansion, wildcards, here-documents, syntax tree)
-- **ayel-mou** (Ayoub Elmouafik): execution (commands, pipes, redirections, builtins, signals)
+- **zakria elkalai**: parsing (tokenizer, expansion, wildcards, here-documents, syntax tree)
+- **ayoub elmouafik** (Ayoub Elmouafik): execution (commands, pipes, redirections, builtins, signals)
